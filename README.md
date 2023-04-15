@@ -20,11 +20,6 @@
 
 
 
-https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg
-
-
-
-
 
 
 
